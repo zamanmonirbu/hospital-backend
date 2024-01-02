@@ -17,6 +17,8 @@ Rescue Hospital Backend serves as the server-side infrastructure for the Rescue 
 - MongoDB (via Mongoose)
 - body-parser, cors, dotenv for middleware operations.
 
+## Visit the live application: [Live Server Link](https://github.com/zamanmonirbu/hospital-backend)
+
 ## Environment Variables
 
 Make sure to set the following environment variables in your `.env` file:
